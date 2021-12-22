@@ -1,4 +1,6 @@
 # Qigsaw
+[![](https://jitpack.io/v/yizems/Qigsaw.svg)](https://jitpack.io/#yizems/Qigsaw)
+
 
 ![](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)
 ![](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
@@ -81,7 +83,7 @@ Qigsaw提供一些Android App Bundle中未支持的功能。
 3. 邮箱联系，[kissonchen@qiyi.com](mailto:kissonchen@qiyi.com)。
 
 4. 加入QQ群了解最新信息。
-   
+
 ![qigsaw_qq_group_chat](./assets/qigsaw_qq_group_chat.jpeg)
 ## 贡献
 
