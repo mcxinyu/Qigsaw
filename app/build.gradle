@@ -56,7 +56,7 @@ android {
         targetCompatibility = '1.8'
     }
 
-    dynamicFeatures = [':java', ':assets', ':native']
+    dynamicFeatures = [':java', ':assets'/*, ':native'*/]
 }
 
 def qigsawPath = file("qigsaw/")
